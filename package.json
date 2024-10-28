@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.8.1"
+  },
+  "dependencies": {
+    "@types/node-mailjet": "^3.3.12",
+    "node-mailjet": "^6.0.6"
+  }
+}
